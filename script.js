@@ -1,14 +1,18 @@
 
 // Initialize Firebase
-var config = {
-    apiKey: "AIzaSyDsEp712DYoi8VWIGVKQDW84AWGqhzPb9Q",
-    authDomain: "dj-stream-dream.firebaseapp.com",
-    databaseURL: "https://dj-stream-dream.firebaseio.com",
-    projectId: "dj-stream-dream",
-    storageBucket: "dj-stream-dream.appspot.com",
-    messagingSenderId: "376296548741"
+
+
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA_ubIvQMN6NzlOB0B2DYFVeVAVZn2KBv0",
+    authDomain: "group-project-b3d87.firebaseapp.com",
+    databaseURL: "https://group-project-b3d87.firebaseio.com",
+    projectId: "group-project-b3d87",
+    storageBucket: "group-project-b3d87.appspot.com",
+    messagingSenderId: "83091955855"
   };
   firebase.initializeApp(config);
+</script>
 
 var database = firebase.database();
 
